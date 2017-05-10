@@ -4,7 +4,7 @@
 /* one, two and four step encoders supported	*/
 /*                                            */
 /* Author: Peter Dannegger                    */
-/*                                            */
+/* test1 branch                                           */
 /**********************************************/
 
 #include <avr/io.h>
