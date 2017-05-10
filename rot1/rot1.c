@@ -1,5 +1,5 @@
 /**********************************************/
-/* From http://embdev.net/articles/Rotary_Encoders */
+/* From http://embdev.net/articles/Rotary_Encoders  */
 /*  Reading rotary encoder                     */
 /* one, two and four step encoders supported	*/
 /*                                            */
